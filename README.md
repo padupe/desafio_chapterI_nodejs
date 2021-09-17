@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Desafio - Introdução ao SOLID 🚀</h1>
+    <h1>Desafio - Conceitos do Node.js 🚀</h1>
     <h2>Chapter I | Trilha Node.js Ignite</h2>
 </div>
 
